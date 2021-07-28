@@ -14,6 +14,14 @@ En este repositorio almacenaremos el código de las entregas durante el semestre
   <li>Maria</li>
 </ul>
 
+![alt text](https://github.com/msuribec/Prueba-Analisis/blob/main/imgs/icon.png "Logo of team")
+
+
+---
+
+***
+
+___
 
 <h2> Métodos implementados </h2>
 
@@ -23,3 +31,29 @@ En este repositorio almacenaremos el código de las entregas durante el semestre
   <li>Bisección</li>
   <li>Regla falsa</li>
 </ol>
+
+
+[Click here to go to Google.com](https://www.google.com "Google's Homepage")
+
+
+[Click here to go to a file in the repository](../main/imgs/icon.png "Go to icon.png file")
+
+
+
+[![DESCRIPCIÓN DE FOTO](https://github.com/msuribec/Prueba-Analisis/blob/main/imgs/icon.png)](htpp://www.youtube.com)
+
+
+| Nombre     | Apellido    |   Cédula     |
+| ---------- | :---------: |   ---------: |
+| Maria      | Sofia       | 1037670964   |
+
+
+
+
+
+
+
+
+
+
+
